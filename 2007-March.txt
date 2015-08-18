@@ -1,0 +1,15 @@
+From flipo.erwan at orange.fr  Wed Mar 21 14:46:03 2007
+From: flipo.erwan at orange.fr (FLIPO ERWAN)
+Date: Wed, 21 Mar 2007 13:46:03 +0000 (GMT)
+Subject: [Jflute-general] About Jflute
+Message-ID: <215587888.1174484763748.JavaMail.wbs51@mspap530>
+
+Hello,
+
+I'm discovering Jflute. It's a very insteresting project. I'd like to test Jflute on a linux platform. That's why, I'would like to know if you have the C file to compile the library MCL on a .so extension, for linux.
+
+Thank you.
+
+Flipo Erwan
+
+
